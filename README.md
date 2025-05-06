@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samvilleneuve
-- 👀 I’m interested in IT security
-- 🌱 I’m currently learning cybersecurity and improve my SecApp skills (Security Application).
+- 🛡️ I'm a Cybersecurity & Application Security Consultant
+- 👀 I’m interested in IT security & pentesting 💥🎯🔍
 
 <!---
 samvilleneuve/samvilleneuve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
